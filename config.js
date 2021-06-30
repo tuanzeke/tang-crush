@@ -1,6 +1,7 @@
 const CONFIG = {
     introTitle: 'Nàyyy!',
-    introDesc: ` chỉ hỏi một lần thôi đấy, trả lời cho thật lòng nhé >< `,
+    introDesc: ` chỉ hỏi một lần thôi đấy, trả lời cho thật lòng nhé        
+    >< `,
     btnIntro: 'ociii',
     title: 'đây là câu hỏi nguyên túc luôn đấy, không đùa đâuuu  😙',
     desc: 'Làm ngừi iu tui heee !  ',
