@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Nàyyy!',
+    introTitle: 'Hello',
     introDesc: ` chỉ hỏi một lần thôi đấy, trả lời cho thật lòng nhéee        
     >< `,
     btnIntro: 'ociii',
@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'hihi <3 iuiu 😘😘',
     messDesc: 'iuuuu <3.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com/amon0206' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/kiem2203' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
